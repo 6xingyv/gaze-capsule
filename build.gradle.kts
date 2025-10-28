@@ -89,7 +89,7 @@ mavenPublishing {
 
     signAllPublications()
 
-    coordinates("com.mocharealm.gaze", "capsule", "2.1.1")
+    coordinates("com.mocharealm.gaze", "capsule", "2.1.1-patch2")
 
     pom {
         name = "Gaze Capsule"
