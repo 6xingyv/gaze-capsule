@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gaze-capsule-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="gaze-capsule-js.jar">
+      <element id="module-output" name="gaze-capsule.jsMain" />
+    </root>
+  </artifact>
+</component>
