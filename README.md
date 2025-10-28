@@ -1,6 +1,6 @@
 # Gaze Capsule
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.mocharealm.accompanist/lyrics-ui)](https://central.sonatype.com/artifact/com.mocharealm.gaze/capsule)
+[![Maven Central](https://img.shields.io/maven-central/v/com.mocharealm.gaze/capsule)](https://central.sonatype.com/artifact/com.mocharealm.gaze/capsule)
 [![Telegram](https://img.shields.io/badge/Telegram-Community-blue?logo=telegram)](https://t.me/mocha_pot)
 
 ## 📦 Repository
